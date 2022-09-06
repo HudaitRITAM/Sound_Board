@@ -1,6 +1,6 @@
 # Sound_Board
 
-after clicking on any box its playing a sound. before ending the music ,if user click on the box, its pause the music.
+After click on any box its playing a sound. Before ending the music ,if user click on the box, its pause the music.
 
 
 ### Technologies Used ###
